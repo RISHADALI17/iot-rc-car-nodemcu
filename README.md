@@ -1,27 +1,61 @@
-# IoT RC Car Controller 🚗📡
+# 🚗 WiFi-Controlled RC Car using NodeMCU (ESP8266)
 
-This is an IoT-based WiFi RC car controller project using NodeMCU ESP8266 and an L298N motor driver. Built by **Coding Moves**.
+A fun IoT project where you control an RC car over WiFi using your mobile phone. This project uses a NodeMCU (ESP8266) board, L298N motor driver, and basic HTML interface.
 
-## Features
-- WiFi Access Point created by NodeMCU
-- Real-time direction control via web interface
-- Adjustable speed using commands (0 to 9)
-- Works fully offline without router
+---
 
-## Pin Configuration
-| Component     | NodeMCU Pin | Description           |
-|---------------|-------------|-----------------------|
-| ENA           | D5 (GPIO14) | Right motor speed     |
-| ENB           | D6 (GPIO12) | Left motor speed      |
-| IN1 (Right)   | D8 (GPIO15) | Motor direction       |
-| IN2 (Right)   | D7 (GPIO13) | Motor direction       |
-| IN3 (Left)    | D4 (GPIO2)  | Motor direction       |
-| IN4 (Left)    | D3 (GPIO0)  | Motor direction       |
+## 📸 Social Media Post
 
-## How to Use
-1. Flash `rc_car_controller.ino` to your NodeMCU.
-2. Connect to WiFi named `NodeMCU Car`.
-3. Open the control webpage and send commands like `F`, `B`, `L`, `R`, `S`, etc.
+**Watch the RC Car in action!**  
+📷 [Instagram Reel](https://www.instagram.com/p/your-post-id)  
+🎥 [YouTube Short](https://www.youtube.com/shorts/your-post-id)  
+📱 [TikTok Clip](https://www.tiktok.com/@coding_moves/video/your-post-id)  
+🧵 [Twitter/X Post](https://twitter.com/Coding_Moves/status/your-post-id)
 
-## Credits
-Made with ❤️ by [Coding Moves](https://www.youtube.com/@Coding_Moves)
+> Replace the above links with your actual post URLs.
+
+---
+
+## 🌐 Social Media Accounts
+
+Follow **Coding Moves** on all platforms for more fun projects:
+
+- 🧠 YouTube: [@Coding_Moves](https://www.youtube.com/@Coding_Moves)
+- 👨‍💻 GitHub: [Muawiya-contact](https://github.com/Muawiya-contact)
+- 💼 LinkedIn: [Moavia Amir](linkedin.com/in/contactmuawia)  
+- 📊 Kaggle: [Moavia Amir](https://www.kaggle.com/moaviaamir)         
+
+---
+
+## 📁 Files Included
+
+- `rc_car_controller.ino`: Arduino code for NodeMCU motor control
+- `index.html`: Web interface to control the RC Car
+- `circuit_diagram.png`: Circuit diagram for hardware connections
+
+---
+
+## 🛠️ Tools & Technologies
+
+- NodeMCU ESP8266
+- L298N Motor Driver
+- DC Motors
+- HTML + JavaScript (for UI)
+- Arduino IDE
+
+---
+
+## 📌 How to Use
+
+1. Upload the `.ino` file to your NodeMCU.
+2. Connect to the WiFi AP `NodeMCU Car`.
+3. Open the web interface in your mobile browser.
+4. Use directional buttons to control your car.
+
+---
+
+## 🤝 Credits
+
+By **Coding Moves**  
+Passionately building cool projects that move!
+
