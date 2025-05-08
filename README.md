@@ -10,6 +10,27 @@ A fun IoT project where you control an RC car over WiFi using your mobile phone.
 
 
 ---
+## 📂 Project Folder Structure
+
+Below is the folder structure for the WiFi-Controlled RC Car project:
+```
+
+iot-rc-car-controller/
+│
+├── code/
+│   └── rc_car_controller.ino     # ESP2266 code in C++
+│
+├── interface/
+│   └── index.html               # Controller code   
+│
+├── images/
+│   └── demo.jpg                  
+│
+├── docs/
+│   └── circuit_diagram.png       
+│
+└── README.md                      
+```
 
 ## 🌐 Social Media Accounts
 
