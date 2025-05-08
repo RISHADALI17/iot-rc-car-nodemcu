@@ -1,36 +1,38 @@
 # 🚗 WiFi-Controlled RC Car using NodeMCU (ESP8266)
 
-A fun IoT project where you control an RC car over WiFi using your mobile phone. This project uses a NodeMCU (ESP8266) board, L298N motor driver, and basic HTML interface.
+A fun IoT project where you control an RC car over WiFi using your mobile phone. This project uses a NodeMCU (ESP8266) board, L298N motor driver, and a basic HTML interface.
 
 ---
 
 ## 📸 Final Project Snapshot
 
-<img src="images/Car.jpg" alt="Final RC Car">
-
+<img src="images/Car.jpg" alt="Final RC Car" width="800"/>
 
 ---
+
 ## 📂 Project Folder Structure
 
 Below is the folder structure for the WiFi-Controlled RC Car project:
-```
 
+```
 iot-rc-car-controller/
 │
 ├── code/
-│   └── rc_car_controller.ino     # ESP2266 code in C++
+│ └── rc_car_controller.ino # ESP8266 code in C++
 │
 ├── interface/
-│   └── index.html               # Controller code   
+│ └── index.html # Controller code
 │
 ├── images/
-│   └── demo.jpg                  
+│ └── demo.jpg # Image of the final car setup
 │
 ├── docs/
-│   └── circuit_diagram.png       
+│ └── circuit_diagram.png # Circuit diagram for wiring
 │
-└── README.md                      
+└── README.md # This documentation file
 ```
+
+---
 
 ## 🌐 Social Media Accounts
 
@@ -38,10 +40,11 @@ Follow **Coding Moves** on all platforms for more fun projects:
 
 - 🧠 YouTube: [@Coding_Moves](https://www.youtube.com/@Coding_Moves)
 - 👨‍💻 GitHub: [Muawiya-contact](https://github.com/Muawiya-contact)
-- 💼 LinkedIn: [Moavia Amir](https://linkedin.com/in/contactmuawia)  
-- 📊 Kaggle: [Moavia Amir](https://www.kaggle.com/moaviaamir)         
+- 💼 LinkedIn: [Moavia Amir](https://linkedin.com/in/contactmuawia)
+- 📊 Kaggle: [Moavia Amir](https://www.kaggle.com/moaviaamir)
 
 ---
+
 ## 🔧 Components
 
 - **ESP8266 Module (NodeMCU)**  
@@ -78,16 +81,13 @@ Follow **Coding Moves** on all platforms for more fun projects:
 
 ---
 
-
-
-
 ## 🛠️ Tools & Technologies
 
-- NodeMCU ESP8266  
-- L298N Motor Driver  
-- DC Motors  
-- HTML + JavaScript (for UI)  
-- Arduino IDE  
+- **NodeMCU ESP8266**  
+- **L298N Motor Driver**  
+- **DC Motors**  
+- **HTML + JavaScript (for UI)**  
+- **Arduino IDE**  
 
 ---
 
