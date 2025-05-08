@@ -42,15 +42,44 @@ Follow **Coding Moves** on all platforms for more fun projects:
 - 📊 Kaggle: [Moavia Amir](https://www.kaggle.com/moaviaamir)         
 
 ---
+## 🔧 Components
 
-## 📁 Files Included
+- **ESP8266 Module (NodeMCU)**  
+  ![ESP8266](https://www.example.com/esp8266-image.jpg)  
+  _Purpose:_ The heart of the project, the NodeMCU module provides WiFi connectivity, enabling the control of the RC car via commands sent from the web interface.
 
-- `rc_car_controller.ino`: Arduino code for NodeMCU motor control
-- `index.html`: Web interface to control the RC Car
-- `circuit_diagram.png`: Circuit diagram for hardware connections
-- `final_car.jpg`: Snapshot of the final working RC car
+- **L298N Motor Driver**  
+  ![L298N Motor Driver](https://www.example.com/l298n-image.jpg)  
+  _Purpose:_ The L298N motor driver controls the speed and direction of the DC motors, allowing for precise movement of the RC car. It serves as the interface between the NodeMCU and the motors.
+
+- **DC Motors (4x)**  
+  ![DC Motors](https://www.example.com/dc-motors-image.jpg)  
+  _Purpose:_ These four motors provide the necessary movement for the RC car, enabling it to move forward, backward, left, and right.
+
+- **Wheels (4x)**  
+  ![Wheels](https://www.example.com/wheels-image.jpg)  
+  _Purpose:_ These wheels, mounted on the DC motors, allow the RC car to drive across various surfaces.
+
+- **Chassis**  
+  ![Chassis](https://www.example.com/chassis-image.jpg)  
+  _Purpose:_ The chassis is the structural frame that holds all the components of the car, including the motors, wheels, and the NodeMCU.
+
+- **Battery Pack (7.4V)**  
+  ![Battery Pack](https://www.example.com/battery-image.jpg)  
+  _Purpose:_ This battery pack powers the RC car and its components, providing the necessary voltage for the motors and electronics to function.
+
+- **Jumper Wires**  
+  ![Jumper Wires](https://www.example.com/jumper-wires-image.jpg)  
+  _Purpose:_ Jumper wires are used for making the necessary electrical connections between the NodeMCU, motor driver, and other components.
+
+- **Smartphone**  
+  ![Smartphone](https://www.example.com/smartphone-image.jpg)  
+  _Purpose:_ A smartphone is used to interact with the web interface for controlling the RC car via the NodeMCU's WiFi network.
 
 ---
+
+
+
 
 ## 🛠️ Tools & Technologies
 
