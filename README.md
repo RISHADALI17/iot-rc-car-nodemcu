@@ -4,18 +4,6 @@ A fun IoT project where you control an RC car over WiFi using your mobile phone.
 
 ---
 
-## 📸 Social Media Post
-
-**Watch the RC Car in action!**  
-📷 [Instagram Reel](https://www.instagram.com/p/your-post-id)  
-🎥 [YouTube Short](https://www.youtube.com/shorts/your-post-id)  
-📱 [TikTok Clip](https://www.tiktok.com/@coding_moves/video/your-post-id)  
-🧵 [Twitter/X Post](https://twitter.com/Coding_Moves/status/your-post-id)
-
-> Replace the above links with your actual post URLs.
-
----
-
 ## 🌐 Social Media Accounts
 
 Follow **Coding Moves** on all platforms for more fun projects:
