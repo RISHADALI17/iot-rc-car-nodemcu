@@ -6,7 +6,8 @@ A fun IoT project where you control an RC car over WiFi using your mobile phone.
 
 ## 📸 Final Project Snapshot
 
-![Final Working RC Car](images/Car.jpg)
+<img src="images/final_car.jpg" alt="Final RC Car" width="600" height="300"/>
+
 
 ---
 
