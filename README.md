@@ -48,7 +48,7 @@ Follow **Coding Moves** on all platforms for more fun projects:
 ## 🔧 Components
 
 - **ESP8266 Module (NodeMCU)**  
-  ![ESP8266](https://www.example.com/esp8266-image.jpg)  
+  ![ESP8266](https://joy-it.net/files/files/Produkte/SBC-NodeMCU/SBC-NodeMCU-1.png)  
   _Purpose:_ The heart of the project, the NodeMCU module provides WiFi connectivity, enabling the control of the RC car via commands sent from the web interface.
 
 - **L298N Motor Driver**  
