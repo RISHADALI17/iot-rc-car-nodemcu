@@ -53,7 +53,7 @@ Follow **Coding Moves** on all platforms for more fun projects:
   _Purpose:_ The heart of the project, the NodeMCU module provides WiFi connectivity, enabling the control of the RC car via commands sent from the web interface.
 
 - **L298N Motor Driver**  
-  ![L298N Motor Driver](https://www.example.com/l298n-image.jpg)  
+  <img src="https://components101.com/sites/default/files/components/L298N-Motor-Driver-Module.jpg" width="300"/>
   _Purpose:_ The L298N motor driver controls the speed and direction of the DC motors, allowing for precise movement of the RC car. It serves as the interface between the NodeMCU and the motors.
 
 - **DC Motors (4x)**  
